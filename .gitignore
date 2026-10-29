@@ -1,0 +1,13 @@
+# Allow only the intended public files; add new public files deliberately.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/skills/
+/skills/*
+!/skills/ai-job-application/
+/skills/ai-job-application/*
+!/skills/ai-job-application/SKILL.md
+!/examples/
+/examples/*
+!/examples/求职资料模板.md
